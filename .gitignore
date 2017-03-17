@@ -1,0 +1,5 @@
+*.apk
+*.exe
+*.docs
+Configuracion.txt
+build/
