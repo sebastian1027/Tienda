@@ -3,6 +3,7 @@ packege tienda;
 public class Producto{
 
 	String nombre;
+	int tamanio;
 	long codigo;
 	int precio;
 
