@@ -4,6 +4,7 @@ public class Producto{
 
 	String nombre;
 	int color;
+	int tamanio;
 	long codigo;
 	int precio;
 
